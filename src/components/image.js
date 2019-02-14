@@ -14,6 +14,6 @@ import Img from "gatsby-image"
  */
 
 const Image = () => (
-  <img src="https://ipfs.io/ipfs/QmYpZd1tppVbDp1cyta6n4E6huQsbpCd4je93KTJYswAPQ" alt="Logo" />
+  <img src="https://ipfs.io/ipfs/QmQYbER9pw7M5aRvgY7ED6pSyrWLmuWWcbFj9CW69xssMJ" alt="Logo" />
 )
 export default Image
